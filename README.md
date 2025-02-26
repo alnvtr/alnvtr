@@ -1,6 +1,5 @@
  # Alan Vitor
 
-## Olá! Eu sou o Alan Vitor
 
 💻 **`Estudante de Ciência da Computação`**  
 🖌️ **`Artista Digital`** 
