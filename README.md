@@ -2,7 +2,7 @@
 
 
  **`Estudante de Ciência da Computação`**  
-<i style='font-size:24px' class='fas'>&#xf53f;</i> **`Artista Digital`** 
+<i class='fas fa-palette'></i> **`Artista Digital`** 
 
 ## `Linguagens e Tecnologias`
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
