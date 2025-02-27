@@ -2,7 +2,7 @@
 
 
  **`Estudante de Ciência da Computação`**  
-<i class='fas fa-palette'></i> **`Artista Digital`** 
+🎨 ![Paleta de Cores](https://img.shields.io/badge/-Artista-f53f?style=flat&logo=palette&logoColor=white) **`Artista Digital`** 
 
 ## `Linguagens e Tecnologias`
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
