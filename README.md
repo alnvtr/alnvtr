@@ -4,9 +4,8 @@
 
 
  **`Estudante de Ciência da Computação`**  
-![image](https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db)
 <img src="https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db" width="20px"/> **Artista**
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Palette_icon_1.svg" width="20px"/>**`Artista`**
+
 
 ## `Linguagens e Tecnologias`
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
