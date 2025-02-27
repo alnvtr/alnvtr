@@ -1,10 +1,7 @@
 
-<body>
  # Alan Vitor
-
-
-
-<img src="https://github.com/user-attachments/assets/e234e5d0-ec61-4d5d-8a1f-2d83969243b4" width="20px"/> **`Estudante de Ciência da Computação`**  
+ 
+<img src="https://github.com/user-attachments/assets/8e23b10a-a473-4deb-80e1-9ce686bcbca3" width="20px"/> **`Estudante de Ciência da Computação`**  
 <img src="https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db" width="20px"/> **Artista**
 
 
