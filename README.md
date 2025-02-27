@@ -1,8 +1,8 @@
 
  # Alan Vitor
  
-<img src="https://github.com/user-attachments/assets/8e23b10a-a473-4deb-80e1-9ce686bcbca3" width="25px"/> **Estudante de Ciência da Computação**  
-<img src="https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db" width="25px" /> **Artista nas horas vagas**
+<img src="https://github.com/user-attachments/assets/8e23b10a-a473-4deb-80e1-9ce686bcbca3" width="20px"/> **Estudante de Ciência da Computação**  
+<img src="https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db" width="20px" display="flex" align-itens="center" justify-content="center"/> **Artista nas horas vagas**
 
 
 ## `Linguagens e Tecnologias`
