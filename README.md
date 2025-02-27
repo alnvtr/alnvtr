@@ -4,6 +4,7 @@
 
 
  **`Estudante de Ciência da Computação`**  
+![image](https://github.com/user-attachments/assets/9a25f246-4492-4220-9304-b2ca412782db)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Palette_icon_1.svg" width="20px"/>**`Artista`**
 
 ## `Linguagens e Tecnologias`
