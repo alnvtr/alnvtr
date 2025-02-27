@@ -4,7 +4,7 @@
 
 
  **`Estudante de Ciência da Computação`**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20px"/> **`Artista`**
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-palette.svg" width="20px"/> **`Artista`**
 
 ## `Linguagens e Tecnologias`
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
